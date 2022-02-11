@@ -41,14 +41,13 @@
                     <div class="header-dots">
                         <div class="dropdown">
                             <button type="button" data-toggle="dropdown" class="p-0 mr-2 btn btn-link">
-                      
                                  @if (!empty(session()->get('locale')))
                                  <h4 style="text-decoration: none;">
-                                    {{session()->get('locale')}}
+                                    {{languages(session()->get('locale'))}}
                                  </h4>
                                  @else 
                                  <h4 style="text-decoration: none;">
-                                    English
+                                    {{languages(app()->getLocale())}}
                                 </h4>
                                  @endif
                             </button>
