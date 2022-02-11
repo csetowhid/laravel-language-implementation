@@ -28,6 +28,3 @@ require __DIR__.'/auth.php';
 
 Route::get('lang/{locale}',[LanguageController::class, 'index']);
 
-Route::get('/me', function(){
-    dd(app()->getLocale());
-});

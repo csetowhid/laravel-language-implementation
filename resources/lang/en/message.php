@@ -1,7 +1,5 @@
 <?php
 return [
-     'title'     => 'Account',    
-     'name'     => 'Name',    
-     'email'    => 'E-mail',    
-     'password' => 'Password',
+     'Sales Last Month' => 'Sales Last Month',
+     'Sales Income' => 'Sales Income',
 ];
