@@ -60,6 +60,9 @@
                                     @case('es')
                                     <span class="language-icon opacity-8 flag large ES"></span>
                                     @break
+                                    @case('fr')
+                                    <span class="language-icon opacity-8 flag large FR"></span>
+                                    @break
                                     @default
                                     <span class="language-icon opacity-8 flag large US"></span>
                                     @endswitch
