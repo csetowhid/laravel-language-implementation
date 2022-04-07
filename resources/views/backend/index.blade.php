@@ -218,156 +218,156 @@
                 <div class="scrollbar-sidebar">
                     <div class="app-sidebar__inner">
                         <ul class="vertical-nav-menu">
-                            <li class="app-sidebar__heading">{{ __("message.Menu") }}</li>
+                            <li class="app-sidebar__heading">{{ __("Menu") }}</li>
                             <li class="mm-active">
                                 <a href="#">
-                                    <i class="metismenu-icon pe-7s-rocket"></i>{{ __("message.Dashboards") }}
+                                    <i class="metismenu-icon pe-7s-rocket"></i>{{ __("Dashboards") }}
                                 </a>
                             </li>
                             <li>
                                 <a href="#">
-                                    <i class="metismenu-icon pe-7s-browser"></i>{{ __("message.Pages") }}
+                                    <i class="metismenu-icon pe-7s-browser"></i>{{ __("Pages") }}
                                     <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
                                 </a>
                                 <ul>
                                     <li>
                                         <a href="pages-login.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Login") }} 
+                                            <i class="metismenu-icon"></i>{{ __("Login") }} 
                                         </a>
                                     </li>
                                     <li>
                                         <a href="pages-login-boxed.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Login Boxed") }}
+                                            <i class="metismenu-icon"></i>{{ __("Login Boxed") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="pages-register.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Register") }}
+                                            <i class="metismenu-icon"></i>{{ __("Register") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="pages-register-boxed.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Register Boxed") }}
+                                            <i class="metismenu-icon"></i>{{ __("Register Boxed") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="pages-forgot-password.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Forgot Password") }}
+                                            <i class="metismenu-icon"></i>{{ __("Forgot Password") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="pages-forgot-password-boxed.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Forgot Password Boxed") }}
+                                            <i class="metismenu-icon"></i>{{ __("Forgot Password Boxed") }}
                                         </a>
                                     </li>
                                 </ul>
                             </li>
-                            <li class="app-sidebar__heading">{{ __("message.UI Components") }}</li>
+                            <li class="app-sidebar__heading">{{ __("UI Components") }}</li>
                             <li>
                                 <a href="#">
-                                    <i class="metismenu-icon pe-7s-diamond"></i> {{ __("message.Elements") }}
+                                    <i class="metismenu-icon pe-7s-diamond"></i> {{ __("Elements") }}
                                     <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
                                 </a>
                                 <ul>
                                     <li>
                                         <a href="#">
-                                            <i class="metismenu-icon"></i>{{ __("message.Buttons") }} 
+                                            <i class="metismenu-icon"></i>{{ __("Buttons") }} 
                                             <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
                                         </a>
                                         <ul>
                                             <li>
                                                 <a href="elements-buttons-standard.html">
-                                                    <i class="metismenu-icon"></i>{{ __("message.Standard") }} 
+                                                    <i class="metismenu-icon"></i>{{ __("Standard") }} 
                                                 </a>
                                             </li>
                                             <li>
                                                 <a href="elements-buttons-pills.html">
-                                                    <i class="metismenu-icon"></i>{{ __("message.Pills") }}
+                                                    <i class="metismenu-icon"></i>{{ __("Pills") }}
                                                 </a>
                                             </li>
                                             <li>
                                                 <a href="elements-buttons-square.html">
-                                                    <i class="metismenu-icon"></i>{{ __("message.Square") }}
+                                                    <i class="metismenu-icon"></i>{{ __("Square") }}
                                                 </a>
                                             </li>
                                             <li>
                                                 <a href="elements-buttons-shadow.html">
-                                                    <i class="metismenu-icon"></i>{{ __("message.Shadow") }}
+                                                    <i class="metismenu-icon"></i>{{ __("Shadow") }}
                                                 </a>
                                             </li>
                                             <li>
                                                 <a href="elements-buttons-icons.html">
-                                                    <i class="metismenu-icon"></i>{{ __("message.With Icons") }}
+                                                    <i class="metismenu-icon"></i>{{ __("With Icons") }}
                                                 </a>
                                             </li>
                                         </ul>
                                     </li>
                                     <li>
                                         <a href="elements-dropdowns.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Dropdowns") }}
+                                            <i class="metismenu-icon"></i>{{ __("Dropdowns") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="elements-icons.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Icons") }}
+                                            <i class="metismenu-icon"></i>{{ __("Icons") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="elements-badges-labels.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Badges") }}
+                                            <i class="metismenu-icon"></i>{{ __("Badges") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="elements-cards.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Cards") }}
+                                            <i class="metismenu-icon"></i>{{ __("Cards") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="elements-loaders.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Loading Indicators") }}
+                                            <i class="metismenu-icon"></i>{{ __("Loading Indicators") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="elements-list-group.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.List Groups") }}
+                                            <i class="metismenu-icon"></i>{{ __("List Groups") }}
                                         </a>
                                     </li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="#">
-                                    <i class="metismenu-icon pe-7s-car"></i>{{ __("message.Components") }} 
+                                    <i class="metismenu-icon pe-7s-car"></i>{{ __("Components") }} 
                                     <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
                                 </a>
                                 <ul>
                                     <li>
                                         <a href="components-tabs.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Tabs") }}
+                                            <i class="metismenu-icon"></i>{{ __("Tabs") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="components-accordions.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Accordions") }}
+                                            <i class="metismenu-icon"></i>{{ __("Accordions") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="components-notifications.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Notifications") }}
+                                            <i class="metismenu-icon"></i>{{ __("Notifications") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="components-modals.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Modals") }}
+                                            <i class="metismenu-icon"></i>{{ __("Modals") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="components-loading-blocks.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Loading Blockers") }}
+                                            <i class="metismenu-icon"></i>{{ __("Loading Blockers") }}
                                         </a>
                                     </li>
                                     <li>
                                         <a href="components-progress-bar.html">
-                                            <i class="metismenu-icon"></i>{{ __("message.Progress Bar") }}
+                                            <i class="metismenu-icon"></i>{{ __("Progress Bar") }}
                                         </a>
                                     </li>
                                 </ul>
@@ -394,8 +394,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h6 class="widget-subheading mb-0 opacity-5">{{ __("message.Sales Last Month") }}</h6>
-                                            
+                                            <h6 class="widget-subheading mb-0 opacity-5">{{ __("Sales Last Month") }}</h6>
                                         </div>
                                         <div class="no-gutters widget-chart-wrapper mt-3 mb-3 pl-2 he-auto row">
                                             <div class="col-md-9">
@@ -419,7 +418,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h6 class="widget-subheading mb-0 opacity-5">{{ __("message.Sales Income") }}</h6>
+                                            <h6 class="widget-subheading mb-0 opacity-5">{{ __("Sales Income") }}</h6>
                                         </div>
                                         <div class="no-gutters widget-chart-wrapper mt-3 mb-3 pl-2 he-auto row">
                                             <div class="col-md-9">
@@ -443,7 +442,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h6 class="widget-subheading mb-0 opacity-5">{{ __("message.Last month sales") }}</h6>
+                                            <h6 class="widget-subheading mb-0 opacity-5">{{ __("Last month sales") }}</h6>
                                         </div>
                                         <div class="no-gutters widget-chart-wrapper mt-3 mb-3 pl-2 he-auto row">
                                             <div class="col-md-9">
@@ -467,7 +466,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <h6 class="widget-subheading mb-0 opacity-5">{{ __("message.Total revenue") }}</h6>
+                                            <h6 class="widget-subheading mb-0 opacity-5">{{ __("Total revenue") }}</h6>
                                         </div>
                                         <div class="no-gutters widget-chart-wrapper mt-3 mb-3 pl-2 he-auto row">
                                             <div class="col-md-9">
@@ -487,7 +486,7 @@
                                             <i class="lnr-laptop-phone text-dark opacity-8"></i>
                                         </div>
                                         <div class="widget-chart-content">
-                                            <div class="widget-subheading">{{ __("message.Cash Deposits") }}</div>
+                                            <div class="widget-subheading">{{ __("Cash Deposits") }}</div>
                                             <div class="widget-numbers">1.7M</div>
                                         </div>
                                     </div>
@@ -500,7 +499,7 @@
                                             <i class="lnr-graduation-hat text-white"></i>
                                         </div>
                                         <div class="widget-chart-content">
-                                            <div class="widget-subheading">{{ __("message.Invested Dividents") }}</div>
+                                            <div class="widget-subheading">{{ __("Invested Dividents") }}</div>
                                             <div class="widget-numbers"><span>9M</span></div>
                                         </div>
                                     </div>
@@ -513,7 +512,7 @@
                                             <i class="lnr-apartment text-white"></i>
                                         </div>
                                         <div class="widget-chart-content">
-                                            <div class="widget-subheading">{{ __("message.Capital Gains") }}</div>
+                                            <div class="widget-subheading">{{ __("Capital Gains") }}</div>
                                             <div class="widget-numbers text-success"><span>$563</span></div>
                                         </div>
                                     </div>
@@ -526,7 +525,7 @@
                                 <div class="mb-3 card">
                                     <div class="card-header-tab card-header">
                                         <div class="card-header-title font-size-lg text-capitalize font-weight-normal">
-                                            <i class="header-icon lnr-cloud-download icon-gradient bg-happy-itmeo"></i> {{ __("message.Technical Support") }}
+                                            <i class="header-icon lnr-cloud-download icon-gradient bg-happy-itmeo"></i> {{ __("Technical Support") }}
                                         </div>
                                     </div>
                                     <div class="p-0 card-body">
@@ -537,7 +536,7 @@
                                                         <div class="widget-chat-wrapper-outer">
                                                             <div class="widget-chart-content widget-chart-content-lg pb-0">
                                                                 <div class="widget-chart-flex">
-                                                                    <div class="widget-title opacity-5 text-muted text-uppercase">{{ __("message.New Accounts since") }} 2018</div>
+                                                                    <div class="widget-title opacity-5 text-muted text-uppercase">{{ __("New Accounts since") }} 2018</div>
                                                                 </div>
                                                                 <div class="widget-numbers">
                                                                     <div class="widget-chart-flex">
@@ -618,7 +617,7 @@
                                 <div class="card-hover-shadow-2x mb-3 card">
                                     <div class="card-header-tab card-header">
                                         <div class="card-header-title font-size-lg text-capitalize font-weight-normal">
-                                            <i class="header-icon lnr-lighter icon-gradient bg-amy-crisp"></i>{{ __("message.Timeline Example") }}
+                                            <i class="header-icon lnr-lighter icon-gradient bg-amy-crisp"></i>{{ __("Timeline Example") }}
                                         </div>
                                     </div>
                                     <div class="scroll-area-lg">
@@ -629,7 +628,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <h4 class="timeline-title">{{ __("message.All Hands Meeting") }}</h4>
+                                                                <h4 class="timeline-title">{{ __("All Hands Meeting") }}</h4>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -637,7 +636,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <p>{{ __("message.Yet another one") }}</p>
+                                                                <p>{{ __("Yet another one") }}</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -645,7 +644,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <h4 class="timeline-title">{{ __("message.Build the production release") }}
+                                                                <h4 class="timeline-title">{{ __("Build the production release") }}
                                                                 </h4>
                                                             </div>
                                                         </div>
@@ -654,7 +653,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <h4 class="timeline-title">{{ __("message.Something not important") }}
+                                                                <h4 class="timeline-title">{{ __("Something not important") }}
                                                                 </h4>
                                                             </div>
                                                         </div>
@@ -663,7 +662,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <h4 class="timeline-title">{{ __("message.This dot has an info state") }}</h4>
+                                                                <h4 class="timeline-title">{{ __("This dot has an info state") }}</h4>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -671,7 +670,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <h4 class="timeline-title">{{ __("message.All Hands Meeting") }}</h4>
+                                                                <h4 class="timeline-title">{{ __("All Hands Meeting") }}</h4>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -679,7 +678,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <p>{{ __("message.Yet another one") }}
+                                                                <p>{{ __("Yet another one") }}
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -688,7 +687,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <h4 class="timeline-title">{{ __("message.Build the production release") }}
+                                                                <h4 class="timeline-title">{{ __("Build the production release") }}
                                                                 </h4>
                                                             </div>
                                                         </div>
@@ -698,7 +697,7 @@
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
                                                                 <h4 class="timeline-title">
-                                                                    {{ __("message.Something not important") }}
+                                                                    {{ __("Something not important") }}
                                                                 </h4>
                                                             </div>
                                                         </div>
@@ -707,7 +706,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <h4 class="timeline-title">{{ __("message.This dot has an info state") }}</h4>
+                                                                <h4 class="timeline-title">{{ __("This dot has an info state") }}</h4>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -715,7 +714,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <h4 class="timeline-title">{{ __("message.All Hands Meeting") }}</h4>
+                                                                <h4 class="timeline-title">{{ __("All Hands Meeting") }}</h4>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -723,7 +722,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <p>{{ __("message.Yet another one") }}
+                                                                <p>{{ __("Yet another one") }}
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -732,7 +731,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <h4 class="timeline-title">{{ __("message.Build the production release") }}
+                                                                <h4 class="timeline-title">{{ __("Build the production release") }}
                                                                 </h4>
                                                             </div>
                                                         </div>
@@ -742,7 +741,7 @@
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
                                                                 <h4 class="timeline-title">
-                                                                    {{ __("message.Something not important") }}
+                                                                    {{ __("Something not important") }}
                                                                 </h4>
                                                             </div>
                                                         </div>
@@ -751,7 +750,7 @@
                                                         <div>
                                                             <span class="vertical-timeline-element-icon bounce-in"></span>
                                                             <div class="vertical-timeline-element-content bounce-in">
-                                                                <h4 class="timeline-title">{{ __("message.This dot has an info state") }}</h4>
+                                                                <h4 class="timeline-title">{{ __("This dot has an info state") }}</h4>
                                                             </div>
                                                         </div>
                                                     </div>
