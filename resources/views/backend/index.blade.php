@@ -123,13 +123,13 @@
                                                                     <div class="widget-heading">Alina Mcloughlin</div>
                                                                     <div class="widget-subheading opacity-8">A short profile description</div>
                                                                 </div>
-                                                                <div class="widget-content-right mr-2">
+                                                                {{-- <div class="widget-content-right mr-2">
                                                                     <form method="POST" action="{{ route('logout') }}">
                                                                         @csrf
                                                                     <a class="btn-pill btn-shadow btn-shine btn btn-focus" href="{{route('logout')}}" onclick="event.preventDefault();
                                                                         this.closest('form').submit();">Logout</a>
                                                                     </form>
-                                                                </div>
+                                                                </div> --}}
                                                             </div>
                                                         </div>
                                                     </div>
