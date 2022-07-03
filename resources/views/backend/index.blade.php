@@ -222,150 +222,18 @@
                             <li>
                                 <a href="#">
                                     <i class="metismenu-icon pe-7s-browser"></i>{{ __("Pages") }}
-                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
                                 </a>
-                                <ul>
-                                    <li>
-                                        <a href="pages-login.html">
-                                            <i class="metismenu-icon"></i>{{ __("Login") }} 
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="pages-login-boxed.html">
-                                            <i class="metismenu-icon"></i>{{ __("Login Boxed") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="pages-register.html">
-                                            <i class="metismenu-icon"></i>{{ __("Register") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="pages-register-boxed.html">
-                                            <i class="metismenu-icon"></i>{{ __("Register Boxed") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="pages-forgot-password.html">
-                                            <i class="metismenu-icon"></i>{{ __("Forgot Password") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="pages-forgot-password-boxed.html">
-                                            <i class="metismenu-icon"></i>{{ __("Forgot Password Boxed") }}
-                                        </a>
-                                    </li>
-                                </ul>
                             </li>
                             <li class="app-sidebar__heading">{{ __("UI Components") }}</li>
                             <li>
                                 <a href="#">
                                     <i class="metismenu-icon pe-7s-diamond"></i> {{ __("Elements") }}
-                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
                                 </a>
-                                <ul>
-                                    <li>
-                                        <a href="#">
-                                            <i class="metismenu-icon"></i>{{ __("Buttons") }} 
-                                            <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
-                                        </a>
-                                        <ul>
-                                            <li>
-                                                <a href="elements-buttons-standard.html">
-                                                    <i class="metismenu-icon"></i>{{ __("Standard") }} 
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="elements-buttons-pills.html">
-                                                    <i class="metismenu-icon"></i>{{ __("Pills") }}
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="elements-buttons-square.html">
-                                                    <i class="metismenu-icon"></i>{{ __("Square") }}
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="elements-buttons-shadow.html">
-                                                    <i class="metismenu-icon"></i>{{ __("Shadow") }}
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="elements-buttons-icons.html">
-                                                    <i class="metismenu-icon"></i>{{ __("With Icons") }}
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li>
-                                        <a href="elements-dropdowns.html">
-                                            <i class="metismenu-icon"></i>{{ __("Dropdowns") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="elements-icons.html">
-                                            <i class="metismenu-icon"></i>{{ __("Icons") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="elements-badges-labels.html">
-                                            <i class="metismenu-icon"></i>{{ __("Badges") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="elements-cards.html">
-                                            <i class="metismenu-icon"></i>{{ __("Cards") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="elements-loaders.html">
-                                            <i class="metismenu-icon"></i>{{ __("Loading Indicators") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="elements-list-group.html">
-                                            <i class="metismenu-icon"></i>{{ __("List Groups") }}
-                                        </a>
-                                    </li>
-                                </ul>
                             </li>
                             <li>
                                 <a href="#">
                                     <i class="metismenu-icon pe-7s-car"></i>{{ __("Components") }} 
-                                    <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
                                 </a>
-                                <ul>
-                                    <li>
-                                        <a href="components-tabs.html">
-                                            <i class="metismenu-icon"></i>{{ __("Tabs") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="components-accordions.html">
-                                            <i class="metismenu-icon"></i>{{ __("Accordions") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="components-notifications.html">
-                                            <i class="metismenu-icon"></i>{{ __("Notifications") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="components-modals.html">
-                                            <i class="metismenu-icon"></i>{{ __("Modals") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="components-loading-blocks.html">
-                                            <i class="metismenu-icon"></i>{{ __("Loading Blockers") }}
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="components-progress-bar.html">
-                                            <i class="metismenu-icon"></i>{{ __("Progress Bar") }}
-                                        </a>
-                                    </li>
-                                </ul>
                             </li>
                         </ul>
                     </div>
