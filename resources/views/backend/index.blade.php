@@ -63,6 +63,9 @@
                                     @case('fr')
                                     <span class="language-icon opacity-8 flag large FR"></span>
                                     @break
+                                    @case('ar')
+                                    <span class="language-icon opacity-8 flag large SA"></span>
+                                    @break
                                     @default
                                     <span class="language-icon opacity-8 flag large US"></span>
                                     @endswitch
@@ -96,6 +99,9 @@
                                 <button type="button" tabindex="0" class="dropdown-item">
                                     <span class="mr-3 opacity-8 flag large ES"></span><a href="lang/es">Spain</a> 
                                 </button>
+                                <button type="button" tabindex="0" class="dropdown-item">
+                                    <span class="mr-3 opacity-8 flag large SA"></span><a href="lang/ar">Arabic</a> 
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -112,13 +118,9 @@
                                         <div tabindex="-1" role="menu" aria-hidden="true" class="rm-pointers dropdown-menu-lg dropdown-menu dropdown-menu-right">
                                             <div class="dropdown-menu-header">
                                                 <div class="dropdown-menu-header-inner bg-info">
-                                                    <div class="menu-header-image opacity-2" style="background-image: url('assets/images/dropdown-header/city3.jpg');"></div>
                                                     <div class="menu-header-content text-left">
                                                         <div class="widget-content p-0">
                                                             <div class="widget-content-wrapper">
-                                                                <div class="widget-content-left mr-3">
-                                                                    <img width="42" class="rounded-circle" src="assets/images/avatars/1.jpg" alt="">
-                                                                </div>
                                                                 <div class="widget-content-left">
                                                                     <div class="widget-heading">Towhid Hasan</div>
                                                                     <div class="widget-subheading opacity-8">A short profile description</div>
